@@ -1,0 +1,508 @@
+
+
+
+
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/40ea385907dcc18f88eba996b1e814e8.png" group-title="Brasil",TV Record
+http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/index_480_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22569837b28e1133dd753408311d14ef.jpg" group-title="Brasil",tv-cultura
+http://173.236.10.10:1935/redeatividade/redeatividade/chunklist_w454369471.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c5f5c341b86d5004328e7f882034a0a0.png" group-title="Brasil",tv-globo
+http://95.141.32.136:8081/look/sptv/chunks.m3u8?nimblesessionid=1339367
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c5f5c341b86d5004328e7f882034a0a0.png" group-title="Brasil",tv-globo sp
+http://95.141.32.136:8081/look/sptv/chunks.m3u8?nimblesessionid=1339713
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28218e2ffd9723b8f74fb0e0d0664d75.jpg" group-title="Brasil",tv-Gazeta
+http://172.93.110.130:1935/televisaorn/televisaorn/chunklist_w103535611.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ebce06893a05034f89313adc40738f16.jpg" group-title="Brasil",tv-Cultura
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2e037bd36aa29d96a908b88c070af0a4.jpg" group-title="Brasil",TV-Band
+http://5.79.68.138:8081/look/band/chunks.m3u8?nimblesessionid=3085842
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4bde8a9c788e4ae4b2d76359d0889963.jpg" group-title="Brasil",tv-Rede gospel
+http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/200066cef78ac68d4f1c509ac742b1c6.jpg" group-title="Brasil",tv-Amazonas
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b9967b293f4862a6365c6e87009e6efd.jpg" group-title="Brasil",tv-Rede 
+http://evp.mm.uol.com.br:1935/redetv2/_definst_/redetv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title="Brasil",tv-impd 
+http://impd.crossdigital.com.br:1935/impd/impd/chunklist_w951017349.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0c7847afd46b2ecb00a14198a16ba142.png" group-title="Brasil",tv-tve
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a0d63881986e2d53734fb0660594b420.png" group-title="Brasil",tv-redevida
+http://rtmp.cdn.upx.net.br:1935/74cc/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ab3e6657ec8bcf616ef67496832c05c9.jpg" group-title="Brasil",tv-futura
+http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/33004b0a1cb3a43b7a1e6b1aef92c128.png" group-title="Brasil",tv-record news
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b68dd398389ddf84ac382685885a2b92.png" group-title="Brasil",tv-mix
+http://abr.mixtv.upx.net.br/1352/myStream.sdp/chunklist_w1640294656.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="Brasil",tv-rbt
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/df7c0177a0c044fe0eefb3016a3ff52a.jpg" group-title="Brasil",tv-canal rural
+http://www.cxtv.com.br/tv-ao-vivo/canal-rural
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c367dd0923ebf8b79a9b3dd3f4c3f443.png" group-title="Brasil",tv-escola
+http://slbps-sambavideos.akamaized.net/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a9342ed0db711b912d1bef3ab86586f9.jpg" group-title="Brasil",tv-terra viva
+http://evcv.mm.uol.com.br:1935/band/terraviva/chunklist_w1048472892.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12e830d7aa5f6b9387d55c4120be6324.png" group-title="Brasil",tv-rit
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/chunklist_w1124847040.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c008e7013bb79729c069c521a142bf7e.jpg" group-title="Brasil",tv-canÇão nova
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a74181e86c78eaae1513d2a87fca6edc.jpg" group-title="Brasil",tv-tvbrasil
+http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live/stream1.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3a5f434e63a0c36751a3d2fd727a7a91.png" group-title="Brasil",tv-novo tempo
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w1548997164_b512000_slpor.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/331000de68258bdb7681313d840ec833.png" group-title="Brasil",tv-poços
+http://rtmp.cdn.upx.net.br:1935/00084/myStream.sdp/chunklist_w1593835285.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" group-title="Brasil",tv-tvbrasil
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c2ed93c16e39753a9f345e41c4ae56f3.jpg" group-title="Brasil",tv-nova nordeste
+http://cdn-br-002938543.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7a28d15a24572385ae9b19bd57e69372.jpg" group-title="Brasil",tv-aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w1130238910.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bfd20c5b4b6b0bf0d824ac9577032d0e.jpg" group-title="Brasil",tv-milktv
+http://stmv1.srvstm.com:1935/jtvmilk/jtvmilk/playlist.m3u8?wowzasessionid=702895327
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/55bbaf68c40165a36c468aa26ac5a747.png" group-title="Argentina",tv-canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2ebf4ffc3ea9633cca3ceb946a8ac3fe.jpg" group-title="Argentina",tv-5
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d3c94afdd8a77d70ff06821205234c9b.png" group-title="Argentina",tv-tru
+http://sjc-ucdn01.ustream.tv/sea01/sea01-uhs-live02/live/5832294/1495012695202/plain/uhs/1/chunk_1495017024_68cdbbe226.flv
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/06a04907d77f2b665531a5661e54c29b.png" group-title="Argentina",tv-diario 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/383abde55e93881b8b2f2c9193626d89.jpg" group-title="Argentina",tv-tlxHd
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6d2e2f02a9997db4a21bc7786fc59764.png" group-title="Argentina",tv-El show de la Manana
+http://prepublish.f.qaotic.net/a14/ngrp:el12_live01-100083_all/chunklist_b946000.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/49600acf9d59469e3603b2f4f611d12c.jpg" group-title="Argentina",tv-Telpin Tv
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1795873550.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/67e92f4b31d435029826308733bcaa96.png" group-title="Argentina",tv-Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/49c17b82270fe142a8d306c1712b6580.jpg" group-title="Argentina",tv-Canal 7 Mendoza
+http://www.cxtv.com.br/tv-ao-vivo/canal-7-mendoza
+/
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2a563198842dbc68c4382d9d04a262bd.png" group-title="Argentina",tv-QM Noticias
+http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/master.m3u8/
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bc6610c80a98f4fd4ebfd70c317966b9.jpg" group-title="Argentina",tv-Canal Orbe 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/index_1_av-p.m3u8?sd=10&rebase=on
+
+/
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42400217523ace08a8a427ad8c6202eb.jpg" group-title="Argentina",tv-El Doce TV
+http://prepublish.f.qaotic.net/a14/ngrp:el12_live01-100083_all/chunklist_b946000.m3u8
+
+/
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/445f660190f35967d203fdbe99843bdb.png" group-title="Argentina",tv-Canal 10 Mar del Plata
+http://186.0.233.76:1935/Canal10MDQ/smil:canal10mdq.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eae20cc581e88aac55b9b706593b8a64.jpg" group-title="Argentina",tv-ONE TV
+http://server5.stweb.tv/radioone/live/chunklist_w1619594123.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a03bfb6c890639f05e1469f7f7f3d708.jpg" group-title="Argentina",tv-Plus Tv 39
+http://sjc-ucdn01.ustream.tv/sao01/sao01-uhs-beta05/live/18660474/1494993589498/plain/uhs/1/chunk_1495003520_146e46e2e6.flv
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7489839ad1b384c94e5e5da6c41c42f0.png" group-title="chile",tv-La Red
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5bcc8968bcd6fa99027fe211531eb5aa.png" group-title="chile",tv-ll
+http://unlimited1-us.dps.live/cdosd/cdosd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4245106104f8ba09a9118cd6f8385f6d.png" group-title="chile",tv-El Pinguino Tv
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8b1849ff54815126db14498005c044da.jpg" group-title="Espanha",tv-TVE - 24h
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_lv3_aosv4_gl8/24h_lv3_aosv4_gl8.isml/24h_lv3_aosv4_gl8-audio=128000-video=400000.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6d41d131935dc6a2efb3a36b64ae96e5.png" group-title="Espanha",tv-TVE - La1
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3f04df7f74ed89b07da31c92e8514783.jpg" group-title="Espanha",tv-TVE - La2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fe602998ee6458cca460e3020565aad8.jpg" group-title="Espanha",tv-Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b664000_DVR.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6d65a2a8a38dcd3b302f0dfa6b3cd6ac.png" group-title="Espanha",tv-Lancelot Televisión
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9d59b02f97f181466c961934425df48f.jpg" group-title="Espanha",tv-Levante TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/29d68481c951ad2e7bb6580f14fad261.jpg" group-title="Espanha",tv-Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7a54123d9b00987656ac69debd56e6bc.jpg" group-title="Espanha",tv-TVG - Galicia TV América
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0cab095cfeca0845b8fcbad315181b95.jpg" group-title="Espanha",tv-5TV
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1c23ecdb8f946622cc5809af0b2353e0.jpg" group-title="Espanha",tv-Onda Cádiz
+http://adc.hls.flumotion.com/adc/live-hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/def1de0dd6fe65607cc39fc3e4bac73f.jpg" group-title="Espanha",tv-Telemadrid
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2d17cf1bffd1d88d0b09acaf8c9bb080.jpg" group-title="Espanha",tv-Tv Melilla
+http://melillatv.hls.flumotion.com/melilla/live-hls-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3fa302353df93812b7cd29613f27229c.png" group-title="Espanha",tv-IB3 TV
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a0035df83bd7809024b0424d2db0bf90.jpg" group-title="Espanha",tv-La Sexta Tv
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dfc95a883af8770280035e9daa9f6bfe.jpg" group-title="Espanha",tv-El Venezolano TV España
+http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/chunklist_w528688669.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/559c38874d0ba37800d727925e1654b4.png" group-title="Espanha",tv-Hispan TV
+http://178.32.255.199:1935/live/hispantv/chunklist_w1032533083.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/02b9ed4bfeae98a470c5d001b154c16b.jpg" group-title="Espanha",tv-Canal 324
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/chunklist_b1296000.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6afa37e24434dda0f3c2b5cd38345424.png" group-title="Espanha",tv-13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/chunklist_w272084556_b700000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4cb61f6e4e4a03e4e1340d7f1cb5ccd9.png" group-title="Espanha",tv-Logos Tv
+http://streamer1.streamhost.org:1935/salive/GMIalfah/chunklist.m3u8?wowzasessionid=1486709724
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c5ba9345a5dc8b2e1c87e53679bfca3c.png" group-title="Espanha",tv-Aragon Tv
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6dce6a1de8d2aad441936aa86c6cfbdf.png" group-title="Espanha",tv-Afro Music Channel
+http://176.9.55.94:1935/edge/43_135_live/chunklist_w269629706.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/56c611bbbfb2aa39c8e7a34365638d3c.jpg" group-title="Mexixo",tv-Telemax
+http://enhd.co:1935/8122/8122/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/62808ad595d84ad60b4744fcbc06893f.jpg" group-title="Mexixo",tv-Canal 66
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8083547ac0a0948fa3064273cfad1f2b.jpg" group-title="Mexixo",tv-TV Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/0yoimc7q8_1@492364/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6daed60a410e0dcb402437b0f1119889.jpg" group-title="Mexixo",tv-Azteca Noticias
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a3ba0f10b8e04eaab7ae4aae14410f6c.jpg" group-title="Mexixo",tv-UAA TV
+rtmp://tv.uaa.mx/videowhisper playpath-TV-UAA  swfUrl-http://releases.flowplayer.org/7.0.3/commercial/flowplayer.swf  pageUrl-http://www.cxtv.com.br/tv-ao-vivo/uaa-tv
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/baba3835f6217c44b161008c6615a341.jpg" group-title="Mexixo",tv-Tv Mexiquense
+http://fss28.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1e507f204b41966aa6114fa40567a2c6.jpg" group-title="Mexixo",tv-Obregon
+http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0a25f1e77c9ac5ddaa911d04493e910e.jpg" group-title="Mexixo",tv-Mochis
+http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11d204be49c471cbaa4bbece1975d040.png" group-title="Mexixo",tv-Culiacán
+http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/11d204be49c471cbaa4bbece1975d040.png" group-title="Mexixo",tv-Mazatlán
+http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0a57b4b1a6b93390fdc6b4dc6a4a2e63.png" group-title="Mexixo",tv-
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/51ca2c2232bffb7ea4f02e6b79d9607a.jpg" group-title="Mexixo",tv-Foro Tv
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6bc1652c4d8e6ed7d7636781c4700a74.png" group-title="Mexixo",tv-Cinco TV
+http://video.gvstream.net:1935/e-tv-video/default.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1388e27bf134a680e880122f14d8f327.jpg" group-title="Mexixo",tv-Azteca Deportes
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fbf9aa45b4d256d05d085909047642f8.jpg" group-title="Mexixo",tv-Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/271c8c95616aae5e502c4fcb64d786fd.png" group-title="Mexixo",tv-TVMÁS
+http://50.7.98.234:1935/rtv/videortv/chunklist_w166023449.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ad18a4dc0bb8570f96f1e81fff95aae4.png" group-title="Mexixo",tv-Milenio Tv-
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752/Seg_041217_145710_336/milenio_center_512k@51752_041217_145710_336329.ts
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a3582bfee804be444541613d5dd719fb.png" group-title="Mexixo",tv-Sintonía Pública TV (SMRT TV)
+http://sjc-ucdn02.ustream.tv/mex01/mex01-uhs-omega02/live/13946965/1494881155905/plain/uhs/1/chunk_1494915968_654b90420f.m4v
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/57275951901ef040cd12731e7906a2ca.jpg" group-title="Mexixo",tv-Canal 26 Aguascalientes
+http://secure-us.imrworldwide.com/novms/gn/3/ggce353.swf
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9afe3e3eabca93b0b756f11cf19d8315.jpg" group-title="Africa",tv- Planet TV
+rtmp://196.46.185.32/livepkgr playpath=livestream  swfUrl=http://releases.flowplayer.org/7.0.3/commercial/flowplayer.swf  pageUrl=http://www.cxtv.com.br/tv-ao-vivo/planet-tv
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f765c23f6d1ac6facab496c8fef4c0af.jpg"Africa" group-title="Africa",ANN7 NEWS
+http://46.4.25.213/live-ann7/ann7-hi.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7585f276541e56006afb73f2e8fc4bb1.png" group-title="Africa",SCBC TV
+http://au.download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windows6.1-kb3155178-x86-express_61beaf9e291438d2cdf26cfd8b90c9db861f9c53.cab
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/103bfce4ad48964094efa40d8175cb43.png" group-title="Alemanha"tv-,dw latino	
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/103bfce4ad48964094efa40d8175cb43.png" group-title="Alemanha"tv-,dw german
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/103bfce4ad48964094efa40d8175cb43.png" group-title="Alemanha",tv-DW - Arabia
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d88127c9452aea8ae8dbfc143cd4132e.png" group-title="Alemanha",tv-DW - English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6aee38bc7549fe7e8258d9d49ee6a133.png" group-title="Alemanha",tv-DW - Amerika
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a06a2d3f025fe0aed440bc0abc548b9b.jpg" group-title="Alemanha",Alex Berlin
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c8ea0f2c2dec00455c80a3e0d85c5534.jpg" group-title="Alemanha",tv-Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da7d4c2c1967afb5c7a03981b5165c43.png" group-title="Alemanha",tv-Electrosound
+http://www.electrosound.tv:1935/public/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8dbf2870c58adebdc0f1cdb2879c4c6d.jpg" group-title="Alemanha",tv-3 ABN LATINO
+http://moiptvus-lh.akamaihd.net/i/latlive_1@328342/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ef0d267a320aa8f68f695f83a70e7e8f.jpg" group-title="Alemanha",tv-Sonus FM
+http://www.electrosound.tv:1935/public/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e96d9cb24d077cc3eef3a741674004eb.png" group-title="Alemanha",tv-Deluxe Music Tv
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Alemanha",
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/274cc93fe150f046c1d083edaac1a60f.jpg" group-title="Alemanha",tv-3 ABN KIDS
+http://moiptvus-lh.akamaihd.net/i/kidslive_1@328343/index_1500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a5fa7f956e144a269d18357f4f32539f.png" group-title="Alemanha",tv-Tec Time Tv
+http://tectime.iptv-playoutcenter.de:1935/tectime/tectime.stream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/32cbb1b4bc1f615b2e28ea9d9825a0a1.jpg" group-title="Alstria",tv-KroneHIT TV
+http://bitcdn-kronehit-live.bitmovin.com/hls/250k/bitcodin.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/67daea90f768fb86aadfeb71dfec3791.jpg" group-title="Azerbaijan",tv-Muz TV Azerbaijan
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e06f8605b1021901169c7d6dd420f23b.jpg" group-title="Azerbaijan",tv-CBC Sport
+http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/playlist.m3u8?t=1495120541&h=sVUsGUnN8i/VBUW3gEaV6g==
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a9ad588f19b43aee321063fd364eacfc.png" group-title="Camaroes",tv-Canal 2 Internacional
+http://canal2-live-p-cdn.hexaglobe.net/e2d39a80c467327b3cd51557ff10d1e5/591dbe95/canal2intepri_fre.smil/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2221ca6a750e9cf6b475edb9bfc6725c.jpg" group-title="Canada",The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?v=3.9.0&fp=WIN%2021,0,0,242&r=NCDYM&g=TNJSCWMCIGWD
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9bc0c62654e96d50ee89c1b3da1c7bfe.jpg" group-title="Canada",tv-CPAC
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4ae586e823ca83811667a0879f73820e.jpg" group-title="Canada",tv-TVA
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6f005917d95ebd4e9b2afa468d193f74.jpg" group-title="Catar",tv-Al Jazeera English
+http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=5366563951001
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/66b46a727f08c6590ada33695da14666.png" group-title="Catar",tv-Al Jazeera Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/85e0594ad952a42723bed7bfb06c04c7.png" group-title="Catar",tv-Al Jazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/300.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ccb84984fe8e7f7d3a37cb624a4464bb.png" group-title="Colombia",tv-Cali TV
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/de66461388dd40c702f0c9718e114d6f.png" group-title="Colombia",tv-TV AGRO
+http://190.248.81.11:1938/live/myStream22/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="",tv-
+
+#EXTINF:-1 tvg-logo="" group-title="",tv-
+
+#EXTINF:-1 tvg-logo="" group-title="",tv-
+
+#EXTINF:-1 tvg-logo="" group-title="",tv-
+
+#EXTINF:-1 tvg-logo="" group-title="",tv-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://www.cxtv.com.br/tv-ao-vivo/tv-record
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
