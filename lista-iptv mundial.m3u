@@ -262,14 +262,17 @@ http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6dce6a1de8d2aad441936aa86c6cfbdf.png" group-title="Espanha",tv-Afro Music Channel
 http://176.9.55.94:1935/edge/43_135_live/chunklist_w269629706.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/56c611bbbfb2aa39c8e7a34365638d3c.jpg" group-title="Mexixo",tv-Telemax
-http://enhd.co:1935/8122/8122/playlist.m3u8
 
 
 ###############################################################mexico
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/Mexico.jpg" group-title="Mexixo",
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/56c611bbbfb2aa39c8e7a34365638d3c.jpg" group-title="Mexixo",tv-Telemax
+http://enhd.co:1935/8122/8122/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/62808ad595d84ad60b4744fcbc06893f.jpg" group-title="Mexixo",tv-Canal 66
