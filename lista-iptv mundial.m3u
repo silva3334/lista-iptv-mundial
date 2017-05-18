@@ -5,8 +5,8 @@
 #EXTM3U
 
 
-
-
+###########################################################Brasil##################################################################################
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/Brasil.jpg" group-title="Brasil",
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/40ea385907dcc18f88eba996b1e814e8.png" group-title="Brasil",TV Record
 http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/index_480_av-p.m3u8?sd=10&rebase=on
@@ -116,8 +116,10 @@ http://stmv1.srvstm.com:1935/jtvmilk/jtvmilk/playlist.m3u8?wowzasessionid=702895
 
 
 
+#############################################Argentina
 
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/Argentina.jpg" group-title="Argentina",
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/55bbaf68c40165a36c468aa26ac5a747.png" group-title="Argentina",tv-canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
@@ -184,10 +186,10 @@ http://unlimited1-us.dps.live/cdosd/cdosd.smil/playlist.m3u8
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 
 
+###############################################espanha  
 
 
-
-
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/Espanha.jpg" group-title="Espanha",
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8b1849ff54815126db14498005c044da.jpg" group-title="Espanha",tv-TVE - 24h
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_lv3_aosv4_gl8/24h_lv3_aosv4_gl8.isml/24h_lv3_aosv4_gl8-audio=128000-video=400000.m3u8
@@ -264,6 +266,10 @@ http://176.9.55.94:1935/edge/43_135_live/chunklist_w269629706.m3u8
 http://enhd.co:1935/8122/8122/playlist.m3u8
 
 
+###############################################################mexico
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/Mexico.jpg" group-title="Mexixo",
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/62808ad595d84ad60b4744fcbc06893f.jpg" group-title="Mexixo",tv-Canal 66
@@ -319,11 +325,17 @@ http://secure-us.imrworldwide.com/novms/gn/3/ggce353.swf
 
 
 
+######################################Africa
 
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/Africa_do_Sul.jpg" group-title="Africa",
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9afe3e3eabca93b0b756f11cf19d8315.jpg" group-title="Africa",tv- Planet TV
-rtmp://196.46.185.32/livepkgr playpath=livestream  swfUrl=http://releases.flowplayer.org/7.0.3/commercial/flowplayer.swf  pageUrl=http://www.cxtv.com.br/tv-ao-vivo/planet-tv
+rtmp://196.46.185.32/livepkgr playpath=livestream  swfUrl=http://releases.flowplayer.org/7.0.3/commercial/flowplayer.swf  pageUrl=http://www.cxtv.com.br/tv-ao-
+
+vivo/planet-tv
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f765c23f6d1ac6facab496c8fef4c0af.jpg"Africa" group-title="Africa",ANN7 NEWS
 http://46.4.25.213/live-ann7/ann7-hi.stream/playlist.m3u8
@@ -333,6 +345,12 @@ http://46.4.25.213/live-ann7/ann7-hi.stream/playlist.m3u8
 http://au.download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windows6.1-kb3155178-x86-express_61beaf9e291438d2cdf26cfd8b90c9db861f9c53.cab
 
 
+#####################################Alemanha
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/Alemanha.jpg" group-title="Alemanha"
 
 
 
@@ -380,35 +398,24 @@ http://moiptvus-lh.akamaihd.net/i/kidslive_1@328343/index_1500_av-p.m3u8?sd=10&r
 http://tectime.iptv-playoutcenter.de:1935/tectime/tectime.stream/playlist.m3u8
 
 
-
+##########################Alstria
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/32cbb1b4bc1f615b2e28ea9d9825a0a1.jpg" group-title="Alstria",tv-KroneHIT TV
 http://bitcdn-kronehit-live.bitmovin.com/hls/250k/bitcodin.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/67daea90f768fb86aadfeb71dfec3791.jpg" group-title="Azerbaijan",tv-Muz TV Azerbaijan
-http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e06f8605b1021901169c7d6dd420f23b.jpg" group-title="Azerbaijan",tv-CBC Sport
-http://s69362.cdn.ngenix.net/live/_definst_/adaptive.smil/playlist.m3u8?t=1495120541&h=sVUsGUnN8i/VBUW3gEaV6g==
-
-
-
-
-
+########################Camaroes
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a9ad588f19b43aee321063fd364eacfc.png" group-title="Camaroes",tv-Canal 2 Internacional
 http://canal2-live-p-cdn.hexaglobe.net/e2d39a80c467327b3cd51557ff10d1e5/591dbe95/canal2intepri_fre.smil/playlist.m3u8
 
 
 
+########################Canada
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/Canada.jpg" group-title="Canada",
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2221ca6a750e9cf6b475edb9bfc6725c.jpg" group-title="Canada",The Shopping Channel
@@ -420,17 +427,28 @@ http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4ae586e823ca83811667a0879f73820e.jpg" group-title="Canada",tv-TVA
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
 
+#######################
 
 
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/Qatar.jpg" group-title="Catar",
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6f005917d95ebd4e9b2afa468d193f74.jpg" group-title="Catar",tv-Al Jazeera English
 http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=5366563951001
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/66b46a727f08c6590ada33695da14666.png" group-title="Catar",tv-Al Jazeera Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/85e0594ad952a42723bed7bfb06c04c7.png" group-title="Catar",tv-Al Jazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/300.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/Colombia.jpg" group-title="Colombia",
+
 
 
 
@@ -483,7 +501,6 @@ http://190.248.81.11:1938/live/myStream22/playlist.m3u8
 
 
 http://www.cxtv.com.br/tv-ao-vivo/tv-record
-
 
 
 
